@@ -25,16 +25,8 @@
     "time-series",
     "responsive"
   ],
-  "bugs": "https://github.com/joewalnes/smoothie/issues",
   "author": {
-    "name": "Joe Walnes",
-    "url": "http://joewalnes.com/"
+    "name": "zhiqiang"
   },
-  "contributors": [
-    {
-      "name": "Drew Noakes",
-      "url": "https://drewnoakes.com/"
-    }
-  ],
   "license": "MIT"
 }
